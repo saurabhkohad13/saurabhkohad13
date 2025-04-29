@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Saurabh Kohad
 
-<!--
-**saurabhkohad13/saurabhkohad13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing my Master's in Data Science  
+💼 3+ years of experience as a Data Scientist  
+🧠 Passionate about ML, NLP, LLMs, and data-driven problem-solving  
+📊 Experienced in Python, SQL, Scikit-learn, TensorFlow, PyTorch, HuggingFace, AWS
 
-Here are some ideas to get you started:
+🔭 **Current Projects:**
+- LLM-powered document analysis system
+- Real-time people counting using CV
+- PDF comparison tool using NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect:
+- 🌐 [Portfolio](your-portfolio.com)
+- 💼 [LinkedIn](linkedin.com/in/saurabh-kohad)
