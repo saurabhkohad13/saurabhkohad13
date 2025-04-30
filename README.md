@@ -36,7 +36,6 @@
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kohad/)
-- 🌐 [Portfolio](https://saurabhkohad13.github.io/)
-- 🐦 [Twitter](https://twitter.com/ravi_ds_ai)
+- 🌐 [Portfolio](https://github.com/saurabhkohad13)
 - 📧 saurabhkohad13@gmail.com
 
