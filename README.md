@@ -1,9 +1,13 @@
 ### 👋 Hi, I'm Saurabh Kohad
 
 🎓 A Data Science Researcher with 3+ years of industry experience, currently exploring AI, LLMs, and applied machine learning.
+
 🤝 President @ Aston Data Science & Artificial intelligence Society
+
 💼 3+ years of experience as a Data Scientist  
+
 🧠 Passionate about ML, NLP, LLMs, and data-driven problem-solving  
+
 📊 Python | SQL | PyTorch | TensorFlow | Hugging Face | AWS | Flask | SOTA | FastAPI | Git | Deployment
 
 ---
